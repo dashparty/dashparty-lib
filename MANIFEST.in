@@ -1,0 +1,2 @@
+include dashpartylib/mainnet_burns.csv
+include dashpartylib/protocol_changes.json
